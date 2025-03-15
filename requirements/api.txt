@@ -1,17 +1,3 @@
-# claude
-anthropic
-# Qwen
-dashscope
-# openai
-openai
- # xunfei
-spark_ai_python
-sseclient-py==1.7.2
-# tecent
-tencentcloud-sdk-python
-# bytedance
-volcengine
-volcengine-python-sdk
-websocket-client
-# zhipu
-zhipuai
+version https://git-lfs.github.com/spec/v1
+oid sha256:6426a1764e0b4546d01e0ac6efc65a75b0ae69a29c8771b3f993a2d73f2cd4db
+size 209

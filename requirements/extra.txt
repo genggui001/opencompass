@@ -1,25 +1,3 @@
-# Alpaca-eval
-alpaca-eval==0.6
-# OlympiadBench
-antlr4-python3-runtime==4.11
-cn2an
-# Dingo
-dingo-python==1.1.2
-# Icl topk retriever
-faiss_gpu==1.7.2
-# Humaneval, Humaneval X
--e git+https://github.com/open-compass/human-eval.git#egg=human-eval
-# IFEval
-langdetect
-# TheoremQA
-latex2sympy2==1.9.1
-# Lawbench, leval
-ltp
-# Math
-math-verify
-# Taco, apps Dataset
-pyext
-# Law Bench
-pypinyin
-# RULER
-wonderwords
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf948ad2cc0e66868582f25b1127a7b8b64eb9bef4e7c44233f7545d0d30e5c
+size 403

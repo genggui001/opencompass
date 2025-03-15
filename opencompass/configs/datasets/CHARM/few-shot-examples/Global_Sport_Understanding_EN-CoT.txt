@@ -1,22 +1,3 @@
-判断一句人为构造的关于体育的句子是否可信。
-
-Q: 下面的句子可信吗? "泰森打出右直拳"
-选项：
-(A) 可信
-(B) 不可信
-A: Let's think step by step.
-Tyson is an American professional boxer. The right straight punch is a common move in boxing. It's quite normal for a boxer to throw a right straight punch, so this sentence is credible. The correct answer should be (A).
-
-Q: 下面的句子可信吗? "贝克汉姆完成了一次扣篮"
-选项：
-(A) 可信
-(B) 不可信
-A: Let's think step by step.
-Beckham is an English professional footballer. A slam dunk is a technical move in basketball. Therefore, this sentence is not credible. The correct answer should be (B).
-
-Q: 下面的句子可信吗? "勒布朗詹姆斯打进老鹰球"
-选项：
-(A) 可信
-(B) 不可信
-A: Let's think step by step.
-LeBron James is a well-known American professional basketball player. An eagle is a term in golf, meaning two strokes under par. Therefore, this sentence is not credible. The correct answer should be (B).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c20e53d0551a4a77034fe00496d1ab0ff83741eb6d1919cba92a51d37b2662c
+size 1037

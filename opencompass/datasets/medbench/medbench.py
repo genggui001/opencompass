@@ -469,7 +469,9 @@ def calc_scores_nlg(dict_gt, dict_pred):
 class MedBenchEvaluator_CMeEE(BaseEvaluator):
 
     def score(self, predictions, references):
+        print(predictions)
         predictions = process_generated_results_CMeEE(predictions)
+        print(predictions)
         return calc_scores_f1(predictions, references)
 
 @ICL_EVALUATORS.register_module()
